@@ -87,4 +87,4 @@ scientific-paper-reader/
 ## 👥 6. Tác giả & Đóng góp (Credits)
 
 - **Dự án:** Ứng dụng đọc và phân tích tài liệu học thuật (PRM393).
-- **Thực hiện chính:** Trung Kiên ([@tkiennt](https://github.com/tkiennt)) — Xây dựng kiến trúc giao diện, luồng duyệt tệp và tích hợp công cụ phân tích tài liệu.
+- **Thành viên đóng góp:** Trung Kiên ([@tkiennt](https://github.com/tkiennt)) — Xây dựng giao diện, luồng duyệt tệp và tích hợp công cụ phân tích tài liệu.
